@@ -29,12 +29,13 @@ With ~20 years of professional experience, I specialize in SaaS security archite
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArvindPers&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArvindPers&theme=dark)
 
-## 🎯 2025 Goals
+## 🎯 Personal Goals for 2025
 - [ ] Develop AI-integrated security solutions
 - [ ] Contribute to open source security projects
 - [ ] Build a portfolio of secure web applications
 - [ ] Share knowledge through technical writing and mentoring
 - [ ] Master modern development workflows with AI assistance
+- [ ] Learn Guitar 🎸 - Explore music as a creative outlet
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-srinivas-cloudsecurityarchitect-ai-learner/)
